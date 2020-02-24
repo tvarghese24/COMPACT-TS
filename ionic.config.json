@@ -1,0 +1,7 @@
+{
+  "name": "compact_ts",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
