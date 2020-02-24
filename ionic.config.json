@@ -1,7 +1,9 @@
 {
   "name": "compact_ts",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
-  "type": "angular"
+  "type": "angular",
+  "id": "0151dd79"
 }
